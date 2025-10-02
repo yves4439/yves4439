@@ -4,7 +4,7 @@
 ![html](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)
-![fifa](https://img.shields.io/badge/FIFA-blue?style=for-the-badge&logo=FIFA&logoColor=white)
+![fifa](https://img.shields.io/badge/FIFA-pink?style=for-the-badge&logo=FIFA&logoColor=white)
 
 <!--
 **yves4439/yves4439** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
