@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-![html](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML&logoColor=white)
+![html](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML5&logoColor=white)
 
 
 <!--
