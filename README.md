@@ -3,6 +3,7 @@
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![html](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS&logoColor=white)
+![c#](https://img.shields.io/badge/C#-blue?style=for-the-badge&logo=C#&logoColor=white)
 
 
 <!--
