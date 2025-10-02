@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![html](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML&logoColor=white)
+
 
 <!--
 **yves4439/yves4439** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
